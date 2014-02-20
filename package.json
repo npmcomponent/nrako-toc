@@ -1,0 +1,21 @@
+{
+  "name": "nrako-toc",
+  "description": "Table of content UI component",
+  "version": "0.1.0",
+  "keywords": [
+    "toc",
+    "table of content",
+    "ui",
+    "heading",
+    "menu"
+  ],
+  "styles": [
+    "lib/toc.css"
+  ],
+  "dependencies": {
+    "component-dom": "git://github.com/npmcomponent/component-dom.git",
+    "component-range": "git://github.com/npmcomponent/component-range.git",
+    "yields-slug": "git://github.com/npmcomponent/yields-slug.git"
+  },
+  "license": "MIT"
+}
